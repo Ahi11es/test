@@ -1,0 +1,294 @@
+{
+  "version": 2,
+  "ok": true,
+  "action": "generate",
+  "request_hash": "1e8b3c1b4c83764297f85486c219eacc76c8860df84767e23c363b768277f404",
+  "response": {
+    "config": {
+      "series": 4,
+      "parallel": 2,
+      "columns": 2,
+      "layout_mode": "auto",
+      "ladder_outline_mode": "stepped",
+      "symmetric_tabs": false,
+      "tab_layout_mode": "manual",
+      "board_width": 37.0,
+      "board_height": 49.0,
+      "cell_expansion_a": 0.0,
+      "cell_expansion_b": 0.0,
+      "slot_end_clearance": 0.0,
+      "left_slot_start_x": 5.0,
+      "right_slot_start_x": 17.0,
+      "cell_width": 12.0,
+      "cell_body_width": 37.0,
+      "cell_left_tab_start": 5.0,
+      "cell_right_tab_start": 17.0,
+      "row_pitch": 6.0,
+      "copper_clearance": 1.0,
+      "slot_length": 10.0,
+      "left_slot_width": 10.0,
+      "right_slot_width": 10.0,
+      "slot_thickness": 0.5,
+      "bus_width": 12.5,
+      "copper_oz": 2.0,
+      "net_start_index": 0,
+      "pack_series": null
+    },
+    "layout": {
+      "board_width": 37.0,
+      "board_height": 49.0,
+      "net_names": [
+        "B-",
+        "B1",
+        "B2",
+        "B3",
+        "B+"
+      ],
+      "outline": [],
+      "slots": [
+        {
+          "ref": "J1",
+          "net": "B-",
+          "x": 22.0,
+          "y": 3.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 0
+        },
+        {
+          "ref": "J2",
+          "net": "B1",
+          "x": 10.0,
+          "y": 3.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 1
+        },
+        {
+          "ref": "J3",
+          "net": "B-",
+          "x": 22.0,
+          "y": 9.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 0
+        },
+        {
+          "ref": "J4",
+          "net": "B1",
+          "x": 10.0,
+          "y": 9.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 1
+        },
+        {
+          "ref": "J5",
+          "net": "B1",
+          "x": 15.0,
+          "y": 15.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 1
+        },
+        {
+          "ref": "J6",
+          "net": "B2",
+          "x": 27.0,
+          "y": 15.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 2
+        },
+        {
+          "ref": "J7",
+          "net": "B1",
+          "x": 15.0,
+          "y": 21.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 1
+        },
+        {
+          "ref": "J8",
+          "net": "B2",
+          "x": 27.0,
+          "y": 21.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 2
+        },
+        {
+          "ref": "J9",
+          "net": "B2",
+          "x": 22.0,
+          "y": 27.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 2
+        },
+        {
+          "ref": "J10",
+          "net": "B3",
+          "x": 10.0,
+          "y": 27.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 3
+        },
+        {
+          "ref": "J11",
+          "net": "B2",
+          "x": 22.0,
+          "y": 33.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 2
+        },
+        {
+          "ref": "J12",
+          "net": "B3",
+          "x": 10.0,
+          "y": 33.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 3
+        },
+        {
+          "ref": "J13",
+          "net": "B3",
+          "x": 15.0,
+          "y": 39.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 3
+        },
+        {
+          "ref": "J14",
+          "net": "B+",
+          "x": 27.0,
+          "y": 39.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 4
+        },
+        {
+          "ref": "J15",
+          "net": "B3",
+          "x": 15.0,
+          "y": 45.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 3
+        },
+        {
+          "ref": "J16",
+          "net": "B+",
+          "x": 27.0,
+          "y": 45.5,
+          "width": 10.0,
+          "height": 0.5,
+          "group_index": 4
+        }
+      ],
+      "islands": [
+        {
+          "net": "B-",
+          "x": 26.75,
+          "y": 6.5,
+          "width": 20.5,
+          "height": 11.0,
+          "group_index": 0
+        },
+        {
+          "net": "B1",
+          "x": 7.75,
+          "y": 6.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 1
+        },
+        {
+          "net": "B1",
+          "x": 10.25,
+          "y": 18.5,
+          "width": 20.5,
+          "height": 11.0,
+          "group_index": 1
+        },
+        {
+          "net": "B1",
+          "x": 7.75,
+          "y": 12.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 1
+        },
+        {
+          "net": "B2",
+          "x": 29.25,
+          "y": 18.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 2
+        },
+        {
+          "net": "B2",
+          "x": 26.75,
+          "y": 30.5,
+          "width": 20.5,
+          "height": 11.0,
+          "group_index": 2
+        },
+        {
+          "net": "B2",
+          "x": 29.25,
+          "y": 24.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 2
+        },
+        {
+          "net": "B3",
+          "x": 7.75,
+          "y": 30.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 3
+        },
+        {
+          "net": "B3",
+          "x": 10.25,
+          "y": 42.5,
+          "width": 20.5,
+          "height": 11.0,
+          "group_index": 3
+        },
+        {
+          "net": "B3",
+          "x": 7.75,
+          "y": 36.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 3
+        },
+        {
+          "net": "B+",
+          "x": 29.25,
+          "y": 42.5,
+          "width": 15.5,
+          "height": 11.0,
+          "group_index": 4
+        }
+      ]
+    },
+    "artifact": {
+      "kind": "project_zip",
+      "path": "exchange/artifacts/responses/admin/1e8b3c1b4c83764297f85486c219eacc76c8860df84767e23c363b768277f404/busboard_4s2p_vertical.zip",
+      "sha256": "e2c33160358895745602316f98170fe9c6308bfcbc790257a2547ad49f8cb192",
+      "size": 73093,
+      "name": "busboard_4s2p_vertical.zip",
+      "project_name": "busboard_4s2p_vertical"
+    }
+  }
+}
