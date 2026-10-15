@@ -1,7 +1,7 @@
 {
   "version": 1,
   "request_hash": "1e8b3c1b4c83764297f85486c219eacc76c8860df84767e23c363b768277f404",
-  "percent": 20,
-  "stage": "engine_received",
-  "updated_at": "2026-10-16T01:00:50"
+  "percent": 35,
+  "stage": "validating",
+  "updated_at": "2026-10-16T01:00:53"
 }
