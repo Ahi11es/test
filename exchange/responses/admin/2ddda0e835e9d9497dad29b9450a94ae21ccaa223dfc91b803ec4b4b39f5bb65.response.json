@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "ok": true,
+  "action": "health",
+  "request_hash": "2ddda0e835e9d9497dad29b9450a94ae21ccaa223dfc91b803ec4b4b39f5bb65",
+  "response": {
+    "status": "ready",
+    "engine": "battery-busboard-cli",
+    "exchange_version": 2,
+    "time": "2026-10-16T00:57:56"
+  }
+}
