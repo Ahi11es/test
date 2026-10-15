@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "action": "health",
+  "params": {
+    "series": "4",
+    "parallel": "2",
+    "net_start_index": "0",
+    "pack_series": "",
+    "columns": 2,
+    "layout_mode": "auto",
+    "ladder_outline_mode": "stepped",
+    "tab_layout_mode": "manual",
+    "symmetric_tabs": false,
+    "board_width_extra": "0",
+    "cell_expansion_a": "0",
+    "cell_expansion_b": "0",
+    "slot_end_clearance": "0",
+    "board_height": "",
+    "copper_clearance": "1.0",
+    "slot_thickness": "0.5",
+    "copper_oz": "2",
+    "project_name": "busboard_4s2p_vertical",
+    "output_dir": "C:\\Users\\admin\\Desktop\\busboard_generated",
+    "append_to_pcb": "",
+    "export_outputs": false,
+    "pack": {
+      "S": "5.0",
+      "H": "17.0",
+      "E": "10.0",
+      "F": "10.0",
+      "B": "37.0",
+      "A": "6.0"
+    }
+  },
+  "nonce": "8234b5b8c2a14c9da7a822901f32fd4c",
+  "request_hash": "9decd768bec848dfb75a7639b049564a591324ede556256015cd4d5e067b3aa5"
+}
