@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "battery-busboard-client",
   "version": "0.3.6",
-  "build": "20261017.14",
+  "build": "20261017.15",
   "installer": "BatteryBusboardClientUpdate.exe",
-  "size": 14969315,
-  "sha256": "ab6ac7336be9b441a6927a72bc325d42472995411c2924cf87697c8c37903cae",
+  "size": 14967946,
+  "sha256": "83342c8ad03098a4536d9e9add203e379bf8dc44eb5db99bb5eebe3616126dd4",
   "notes": ""
 }
