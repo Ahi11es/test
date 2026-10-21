@@ -2,9 +2,9 @@
   "schema": 1,
   "product": "battery-busboard-client",
   "version": "0.3.6",
-  "build": "20261021.1",
+  "build": "20261021.2",
   "installer": "BatteryBusboardClientUpdate.exe",
-  "size": 15128168,
-  "sha256": "ecce46829480006e2d2efeb3e694011a46dab45afa3daec9ac9b3587beca9d9d",
-  "notes": ""
+  "size": 15129513,
+  "sha256": "d68a7d04a4e7ac9bffd256133d434fc653c52849344ac3559e7ba993490d4eb7",
+  "notes": "Відкриття старих ZIP-результатів із відновленням налаштувань; перед оновленням програма питає, чи зберегти поточний проєкт і пресет."
 }
